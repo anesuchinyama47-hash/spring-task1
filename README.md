@@ -1,6 +1,9 @@
 Spring Boot Task 1 – Simple Web Application
+
 Project Description
+
 This project is a simple Spring Boot web application created as part of Task 1.
+
 It demonstrates:
 •	Creating a Spring Boot project
 •	Handling HTTP requests
